@@ -1,0 +1,1 @@
+**OBS! "Intro_til_IT-Sikkerhed/Python_Scripts/Mastering Python for Networking and Security" er tilføjet EFTER original aflevering. Her er der udarbejdet forskellige netværksscripts som er blevet forbedret med AI. Ligeledes er der uploadet dokumentation fra kørsel af scripts i Kali Linux**
